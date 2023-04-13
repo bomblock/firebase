@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1080147297901",
+    "project_id": "test-741fa",
+    "storage_bucket": "test-741fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080147297901:android:65f1ab6112bea7253e6164",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080147297901-9pfndgh61c0f4t33hlqnqgvhcj3rd5br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnveKk_fiAlwyhgC24jJajHOzlOiQ1LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080147297901-9pfndgh61c0f4t33hlqnqgvhcj3rd5br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080147297901:android:05462185bfcfa3713e6164",
+        "android_client_info": {
+          "package_name": "kr.bomblock.fb_firebase_email_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080147297901-9pfndgh61c0f4t33hlqnqgvhcj3rd5br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnveKk_fiAlwyhgC24jJajHOzlOiQ1LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080147297901-9pfndgh61c0f4t33hlqnqgvhcj3rd5br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
