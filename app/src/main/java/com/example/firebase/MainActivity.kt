@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
                        
                         val user = auth.currentUser
                         
-                        Log.d("MainActivity",user!!.vid)
+                        Log.d("MainActivity", user!!.uid)
                        
                     } else {
    
